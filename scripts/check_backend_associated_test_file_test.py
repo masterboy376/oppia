@@ -28,7 +28,7 @@ from scripts import check_backend_associated_test_file
 
 
 class CheckBackendAssociatedTestFileTests(test_utils.GenericTestBase):
-    """Unit tests for scripts/check_backend_associated_test_file.py."""
+    """Unit tests fors scripts/check_backend_associated_test_file.py."""
 
     def setUp(self) -> None:
         super().setUp()
