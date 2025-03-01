@@ -196,7 +196,7 @@ FEATURE_FLAG_NAME_TO_DESCRIPTION_AND_FEATURE_STAGE = {
     ),
     FeatureNames.SHOW_TRANSLATION_SUGGESTIONS_IN_CD.value: (
         (
-            'This flag is to show auto-generated translation suggestions in ',
+            'This flag is to show auto-generated translation suggestions in '
             'the contributor dashboard.',
             feature_flag_domain.ServerMode.DEV
         )
