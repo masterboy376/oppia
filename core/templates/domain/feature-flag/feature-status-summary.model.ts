@@ -35,6 +35,7 @@ export enum FeatureNames {
   IsImprovementsTabEnabled = 'is_improvements_tab_enabled',
   LearnerGroupsAreEnabled = 'learner_groups_are_enabled',
   CdAdminDashboardNewUi = 'cd_admin_dashboard_new_ui',
+  ShowTranslationSuggestionsInCd = 'show_translation_suggestions_in_cd',
   NewLessonPlayer = 'new_lesson_player',
   AddVoiceoverWithAccent = 'add_voiceover_with_accent',
   CdAllowUndoingTranslationReview = 'cd_allow_undoing_translation_review',
